@@ -24,7 +24,13 @@ function test() {
 
 Rohkem infot lehel [Google](https://google.com/)
 
-Inimesed kes arvasid, et õhk koosneb õhust
+Inimesed kes arvasid, et õhk koosneb õhust:
 - George Washington
 - John Adams
 - Thomas Jefferson
+
+
+Vali õige vastus
+- [x] Taevas on kõrgel
+- [ ] Taevas on madalal
+- [ ] Taevas on taevas
